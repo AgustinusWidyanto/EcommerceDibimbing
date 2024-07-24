@@ -35,6 +35,11 @@
     gap: 3px;
     cursor: pointer;
 }
+ 
+.nav-menu li a {
+    color: black;
+    font-weight: 600;
+}
 
 .nav-menu hr {
     border: none;
